@@ -1,8 +1,6 @@
 Group Members:-
 •	Name: Nikhil Kotian
-      UFID: 0699-9663
 •	Name: Ramandeep Singh
-      UFID: 8019-7991	
 
 Instruction to compile and run the code:-
 
